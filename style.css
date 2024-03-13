@@ -1,0 +1,17 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+p {
+  color: black;
+  font-size:  12px;  
+}
+  /*corrected tag for fontsize to font-size*/
+  h1 {
+  font-weight: bold;
+  color: blue;    
+  }
+  /*changed input from black to blue*/
+h2 {
+  color: green; 
+  /*changed input from black to green*/
+}
